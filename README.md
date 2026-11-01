@@ -43,7 +43,7 @@ python guessing_game.py
 ```
 
 ## Download ⏬
-### Você também pode baixar o executável para Windows na aba [Releases]()
+### Você também pode baixar o executável para Windows na aba [Releases](https://github.com/moraes404/adivinha-em-python/releases)
 
 ## Compilar do código fonte 🔨
 
